@@ -6,7 +6,8 @@ I'm Dennis, a Software Engineer with a true passion for Android development 💻
 
 
 ## ⏰ I’m currently... 
-- Working on an **Android app** which helps security officers 👮 to place surveillance cameras 📷. Come and [take a look](https://github.com/zdennisz/CoverZone)! 
+- Working on an **Android app** which helps officers to place security cameras 📷.<br>
+Come and [take a look](https://github.com/zdennisz/CoverZone)! 
 
 
 - Learning MVVM architecture pattern & data binding. 🤔📖
