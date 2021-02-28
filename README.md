@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there 👋😁
 
-<!--
-**zdennisz/zdennisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a true passion for Android development 💻📱 &  lifting weights 🏋️‍♂️.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to leave a [message](mailto:zdennisz@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/dennis-zabolotny-62802a149/)! 
+
+
+#### I’m currently... ⏰
+- Working on an **Android app** which helps security officers 👮 to place surveillance cameras 📷. Come and [take a look](https://github.com/zdennisz/CoverZone)! 
+
+
+- Learning MVVM architecture pattern & data binding. 🤔📖
