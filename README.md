@@ -6,6 +6,9 @@ I'm Dennis, a Software Engineer with a true passion for coding 💻📱 &  worki
 
 
 ## ⏰ I’m currently... 
+- Working on an **React Native** clone of an exisitng app called OpTarget. The app is written in `React Native`, using `Navigation v5`  & `Redux`.<br>
+Come and [take a look](https://github.com/zdennisz/optarget_reactNative)! :eyes:
+
 - Working on an **Android app** named CoverZone, which helps officers to place security cameras 📷. The app is written in `Kotlin`, using `MVVM` architecture & `Data/Layout binding`.<br>
 Come and [take a look](https://github.com/zdennisz/CoverZone)! :eyes:
 
